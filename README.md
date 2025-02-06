@@ -52,4 +52,4 @@ npm run dev
 ```
 
 ### Notes
-Le fichier .env et login sont fourmit afin de pouvoir tester l'api de manière fictive. Il est évident que ce sont des fichiers à garder secret et à ne pas les divulguer.
+Les fichiers .env et login sont fournit afin de pouvoir tester l'api de manière fictive. Il est évident que ce sont des fichiers à garder secret et à ne pas les divulguer.
