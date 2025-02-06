@@ -1,0 +1,55 @@
+Administrateur : 
+
+email : johndoe@example.com
+password : D7z#Nw2K
+
+
+Utilisateurs :
+
+#1 Jane Doe
+email : janedoe@example.com
+password : X9z!rV@k
+
+#2 John smith
+email : johnsmith123@example.com
+password : F4w!xJ0r
+
+#3 Charlie Brown
+email : charliebrown@example.com
+password : B2q*YhS7
+
+#4 Emily Wilson
+email : emilywilson@example.com
+password: T3o#Gp5U
+
+#5 Mike Taylor
+email : miketaylor88@example.com
+password : J1p!AqW9
+
+#6 Sarah Johnson
+email : sarahjohnson22@example.com
+password : M7e!ZyX2
+
+#7 David Lee
+email : davidlee1987@example.com
+password : K5v*RkT8
+
+#8 Laura Martinez
+email : lauramartinez@example.com
+password : N3l!Wp6Q
+
+#9 Sophia Garcia
+email : sophiagarcia@example.com
+password : H1s#Bg4V
+
+#10 James Anderson
+email : jamesanderson@example.com
+password : P9u*XmT3
+
+#11 Olivian Thomas
+email : olivianthomas@example.com
+password : V8j!Lp3T
+
+#12 Ethan Jackson
+email : ethanjackson@example.com
+password : S4h*Bq9R

@@ -1,0 +1,10 @@
+PORT=3001
+USERDB=john
+PASSWORDDB=password
+HOSTDB=localhost
+DBNAME=projetDB
+
+PEPPER=4b3d1f7e95a12e3410d48962b1ec0123a24b56789f0cde456a7d893ce1f34c56
+JWT_SECRET=g9ahP/zJ5LgKHg1z3MxRr3LXcqwNW3tL8D0f8dPlAUs=
+
+DATABASE_URL="postgresql://john:password@localhost:5432/projetDB?schema=public"
